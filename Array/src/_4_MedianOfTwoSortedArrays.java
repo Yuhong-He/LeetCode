@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class MedianOfTwoSortedArrays {
+public class _4_MedianOfTwoSortedArrays {
     public static void main(String[] args) {
         int[] nums1 = new int[] {1, 3};
         int[] nums2 = new int[] {3, 4};
