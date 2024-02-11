@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class LetterCombinationOfAPhoneNumber {
+public class _17_LetterCombinationOfAPhoneNumber {
     public static void main(String[] args) {
         String digits = "23";
         String[] expected = {"ad","ae","af","bd","be","bf","cd","ce","cf"};

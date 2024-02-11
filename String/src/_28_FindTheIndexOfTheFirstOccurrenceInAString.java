@@ -1,4 +1,4 @@
-public class FindTheIndexOfTheFirstOccurrenceInAString {
+public class _28_FindTheIndexOfTheFirstOccurrenceInAString {
     public static void main(String[] args) {
         String haystack = "sadbutsad";
         String needle = "sad";

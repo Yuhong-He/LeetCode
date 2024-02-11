@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class RansomNote {
+public class _383_RansomNote {
     public static void main(String[] args) {
         String ransomNote = "aa";
         String magazine = "aab";

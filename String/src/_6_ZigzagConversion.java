@@ -1,4 +1,4 @@
-public class ZigzagConversion {
+public class _6_ZigzagConversion {
     public static void main(String[] args) {
         String inputStr = "PAYPALISHIRING";
         int inputNum = 3;

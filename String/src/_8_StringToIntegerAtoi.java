@@ -1,4 +1,4 @@
-public class StringToIntegerAtoi {
+public class _8_StringToIntegerAtoi {
     public static void main(String[] args) {
         String input = "2147483648";
         int expected = 2147483647;

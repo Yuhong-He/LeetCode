@@ -1,4 +1,4 @@
-public class LongestPalindromicSubstring {
+public class _5_LongestPalindromicSubstring {
     public static void main(String[] args) {
         String input = "babad";
         String expected = "bab";

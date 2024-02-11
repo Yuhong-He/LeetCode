@@ -1,4 +1,4 @@
-public class IntegerToRoman {
+public class _12_IntegerToRoman {
     public static void main(String[] args) {
         int input = 1994;
         String expected = "MCMXCIV";

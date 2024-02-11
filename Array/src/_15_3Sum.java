@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class ThreeSum {
+public class _15_3Sum {
     public static void main(String[] args) {
         int[] nums = new int[] {-1,0,1,2,-1,-4};
         int[][] expected = new int[][] {{-1,-1,2}, {-1,0,1}};

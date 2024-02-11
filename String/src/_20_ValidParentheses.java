@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class ValidParentheses {
+public class _20_ValidParentheses {
     public static void main(String[] args) {
         String input = "){";
         boolean expected = false;
