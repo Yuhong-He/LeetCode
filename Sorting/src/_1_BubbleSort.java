@@ -1,5 +1,8 @@
 import java.util.Arrays;
 
+/*
+* 冒泡排序：比较相邻元素，把大的移到后面
+* */
 public class _1_BubbleSort {
     public static void main(String[] args) {
         int[] input = new int[] {4,7,3,8,2,5};
