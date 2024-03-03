@@ -47,7 +47,7 @@ public class _415_AddStrings {
         return result.reverse().toString();
     }
 
-    public static String addStrings3(String num1, String num2) { // 156 / 317 testcases passed
+    public static String addStrings3(String num1, String num2) { // 156 / 317 testcases passed，数字过大会报错
         int n1 = 0, n2 = 0;
         for (char c: num1.toCharArray()) {
             n1 *= 10;
